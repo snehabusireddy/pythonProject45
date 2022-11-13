@@ -1,2 +1,2 @@
-# pythonProject45
+# StreamLit Project
 StreamLit demo
